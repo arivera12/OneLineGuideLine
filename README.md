@@ -13,7 +13,7 @@ This documentation is a guideline that will help you to design and develop excel
     - Public and Private
     - Roles
   - Application Tables Design
-- Code Best Practices
+- Software Arquitecture Design
   - Backend
     - Database Design
     - API Structure
@@ -25,3 +25,4 @@ This documentation is a guideline that will help you to design and develop excel
     - Responsive Design
     - Mobile And Tablet/Desktop
     - UI/UX Best components for users case
+    - SPA and WebAssembly
