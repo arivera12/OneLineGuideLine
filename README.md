@@ -5,7 +5,7 @@ This documentation is a guideline that will help you to design and develop excel
 - Customer Requirements
   - User Roles and Permissions
   - Application Modules
-    - Data Collected
+    - Collect Data Per Module
     - Access Roles
     - Business Logic / UI Logic by user roles
 - Database Design using SQL
