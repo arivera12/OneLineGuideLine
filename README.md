@@ -2,6 +2,6 @@
 
 This documentation is a guideline that will help you to design and develop excellent software architecture step by step.
 
-[Developers starts here!](https://github.com/arivera12/OneLineGuideLine/wiki)
+This repository should be used as a guide line for developers, business analyst and even for project manager to design and develop successful software development!
 
-[Non-developers but technical starts here!](https://github.com/arivera12/OneLineGuideLine/wiki)
+[Starts here!](https://github.com/arivera12/OneLineGuideLine/wiki)
