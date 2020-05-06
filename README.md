@@ -4,4 +4,4 @@ This documentation is a guideline that will help you to design and develop excel
 
 [Developers starts here!](https://github.com/arivera12/OneLineGuideLine/wiki)
 
-[Non-developers starts here!](https://github.com/arivera12/OneLineGuideLine/wiki)
+[Non-developers but technical starts here!](https://github.com/arivera12/OneLineGuideLine/wiki)
