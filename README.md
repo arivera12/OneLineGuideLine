@@ -9,8 +9,8 @@ This repository should be used as a guideline for:
 - Project managers 
 - Techincal people in general
 
-To design and develop successful software development using oneline framework arquitecture!
+To design and develop successful software development using oneline framework arquitecture.
 
 This software development principles can be applied as well on general terms but we will good deep on top of OneLine framework.
 
-# <h1 align="center">[Start here!](https://github.com/arivera12/OneLineGuideLine/wiki)</h1>
+# <h1 align="center">[Start here](https://github.com/arivera12/OneLineGuideLine/wiki)</h1>
