@@ -1,4 +1,9 @@
 # OneLine GuideLine
+<p>
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RSE2NMEG3F7QU&source=url">
+	    <img src="https://img.shields.io/badge/Donate-PayPal-green.svg" />
+	</a>
+</p>
 
 This documentation is a guideline that will help you to standarize everything going step by step starting from gathering customer requirements, designing database structure, designing friendly UI/UX layouts, examples with use of cases in real development enviroments and develop excellent, optimized and scalable software architecture.
 
