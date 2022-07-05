@@ -7,7 +7,7 @@ This repository should be used as a guideline for:
 - Developers
 - Business analysts
 - Project managers 
-- Techincal people in general
+- Technical people
 
 To design and develop successful software arquitecture development using OneLine framework and OneLine Tool.
 
